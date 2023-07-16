@@ -1,0 +1,16 @@
+.content{
+    width: 600px;
+    height: 400px;
+    background-color: lightblue;
+}
+.container {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+ .heading{
+    color: rebeccapurple;
+    font-weight: 600;
+ }
